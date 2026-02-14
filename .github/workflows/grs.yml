@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=catppuccin_latte&rank_icon=github
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=catppuccin_latte&rank_icon=github&hide=stars&show=review,prs_merged,prs_merged_percentage
           path: profile/stats.svg
           token: ${{ secrets.PAT }}
 
