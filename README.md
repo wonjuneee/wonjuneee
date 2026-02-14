@@ -21,9 +21,9 @@
 ## 📈 GitHub 통계 (Stats)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonjuneee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonjuneee&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](./profile/top-langs.svg)
 
 
 [//]: # ([![Your GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com/?user=wonjuneee&theme=radical&#41;]&#40;https://git.io/streak-stats&#41;)
