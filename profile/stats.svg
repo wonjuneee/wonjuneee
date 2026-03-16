@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">WonJun Lee's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Commits  (last year) : 654, Total PRs: 213, Total PRs Merged: 201, Merged PRs Percentage: 94.37, Total Issues: 11, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Commits  (last year) : 654, Total PRs: 213, Total PRs Merged: 202, Merged PRs Percentage: 94.84, Total Issues: 11, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 117.08350134835703;
+        stroke-dashoffset: 116.80644841238993;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >201</text>
+      >202</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >94.37 %</text>
+      >94.84 %</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
